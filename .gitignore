@@ -1,0 +1,13 @@
+**/.DS_Store
+env
+/build
+exp
+dist
+mqns.egg-info
+**/__pycache__
+.vscode
+.cspell
+.pytest_cache
+!docs
+.idea
+.eggs
