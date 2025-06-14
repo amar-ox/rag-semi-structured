@@ -3,7 +3,7 @@ env
 /build
 exp
 dist
-mqns.egg-info
+fastrag.egg-info
 **/__pycache__
 .vscode
 .cspell
@@ -11,3 +11,4 @@ mqns.egg-info
 !docs
 .idea
 .eggs
+**/.ipynb_checkpoints
