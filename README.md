@@ -126,7 +126,3 @@ The `-r` option specifies the retrieval mode and accepts one of the following va
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements, bug fixes, or new features.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
