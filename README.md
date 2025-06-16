@@ -29,8 +29,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/fastrag.git
-   cd fastrag
+   git clone https://github.com/amar-ox/rag-semi-structured.git
+   cd rag-semi-structured
    ```
 
 2. **Install Python Dependencies**
